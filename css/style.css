@@ -1,0 +1,12 @@
+div {
+    background-color: #09c;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+div h2{
+    background-color: gold;
+    padding: 5px;
+    margin: 5px;
+}
+
